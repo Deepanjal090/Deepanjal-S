@@ -1,2 +1,3 @@
 # Deepanjal-S
-1st repository
+1st repository 
+author deepanjal
