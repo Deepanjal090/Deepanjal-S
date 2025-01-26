@@ -1,4 +1,4 @@
 # Deepanjal-S
 1st repository 
 <Br>
-Author deepanjal
+Author Deepanjal Sood
